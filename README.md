@@ -6,3 +6,6 @@ Passe como primeiro argumento uma expressão matemática:
 ```powershell
 goth "5 * (2 + 3)"
 ```
+
+### Download
+Releases: [aqui](https://github.com/fabricioh/goth/releases)
