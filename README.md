@@ -1,4 +1,4 @@
-<h3 align="center">goth = go + math</h3>
+<h3 align="center">goth = go + math<br/>🦇</h3>
 <hr/>
 
 ### Uso
